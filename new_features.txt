@@ -1,0 +1,524 @@
+V;LIT;3;PL;IND;PRS
+o>	ant>
+u>	ant>
+a>	ant>
+i>	ant>
+e>	ant>
+>	ant>
+w>	iant>
+
+V;LIT;2;PL;IND;PRS
+o>	wch>
+u>	wch>
+a>	wch>
+i>	wch>
+e>	wch>
+>	wch>
+w>	iwch>
+
+V;LIT;1;PL;IND;PRS
+o>	wn>
+u>	wn>
+a>	wn>
+i>	wn>
+e>	wn>
+>	wn>
+w>	iwn>
+
+V;LIT;3;PL;FUT
+o>	ant>
+u>	ant>
+a>	ant>
+i>	ant>
+e>	ant>
+>	ant>
+w>	iant>
+
+V;LIT;2;PL;FUT
+o>	wch>
+u>	wch>
+a>	wch>
+i>	wch>
+e>	wch>
+>	wch>
+w>	iwch>
+
+V;LIT;1;PL;FUT
+o>	wn>
+u>	wn>
+a>	wn>
+i>	wn>
+e>	wn>
+>	wn>
+w>	iwn>
+
+V;LIT;1;SG;IND;PRS
+o>	af>
+u>	af>
+a>	af>
+i>	af>
+e>	af>
+>	af>
+w>	iaf>
+
+V;LIT;1;SG;FUT
+o>	af>
+u>	af>
+a>	af>
+i>	af>
+e>	af>
+>	af>
+w>	iaf>
+
+V;COL;3;PL;IND;PRS
+o>	an nhw>
+u>	an nhw>
+a>	an nhw>
+i>	an nhw>
+e>	an nhw>
+>	an nhw>
+w>	ian nhw>
+
+V;COL;2;PL;IND;PRS
+o>	wch chi>
+u>	wch chi>
+a>	wch chi>
+i>	wch chi>
+e>	wch chi>
+>	wch chi>
+w>	iwch chi>
+
+V;COL;1;PL;IND;PRS
+o>	wn ni>
+u>	wn ni>
+a>	wn ni>
+i>	wn ni>
+e>	wn ni>
+>	wn ni>
+w>	iwn ni>
+
+V;COL;3;PL;FUT
+o>	an nhw>
+u>	an nhw>
+a>	an nhw>
+i>	an nhw>
+e>	an nhw>
+>	an nhw>
+w>	ian nhw>
+
+V;COL;2;PL;FUT
+o>	wch chi>
+u>	wch chi>
+a>	wch chi>
+i>	wch chi>
+e>	wch chi>
+>	wch chi>
+w>	iwch chi>
+
+V;COL;1;PL;FUT
+o>	wn ni>
+u>	wn ni>
+a>	wn ni>
+i>	wn ni>
+e>	wn ni>
+>	wn ni>
+w>	iwn ni>
+
+V;COL;1;SG;IND;PRS
+o>	af i>
+u>	af i>
+a>	af i>
+i>	af i>
+e>	af i>
+>	af i>
+w>	iaf i>
+
+V;COL;1;SG;FUT
+o>	af i>
+u>	af i>
+a>	af i>
+i>	af i>
+e>	af i>
+>	af i>
+w>	iaf i>
+
+V;COL;1;SG;IND;PRS
+o>	a i>
+u>	a i>
+a>	a i>
+i>	a i>
+e>	a i>
+>	a i>
+w>	ia i>
+
+V;COL;1;SG;FUT
+o>	a i>
+u>	a i>
+a>	a i>
+i>	a i>
+e>	a i>
+>	a i>
+w>	ia i>
+
+V;LIT;3;PL;IND;PST
+o>	asant>
+u>	asant>
+a>	asant>
+i>	asant>
+e>	asant>
+>	asant>
+w>	iasant>
+
+V;LIT;2;PL;IND;PST
+o>	asoch>
+u>	asoch>
+a>	asoch>
+i>	asoch>
+e>	asoch>
+>	asoch>
+w>	iasoch>
+
+V;LIT;1;PL;IND;PST
+o>	asom>
+u>	asom>
+a>	asom>
+i>	asom>
+e>	asom>
+>	asom>
+w>	iasom>
+
+V;LIT;3;SG;IND;PST
+o>	odd>
+u>	odd>
+a>	odd>
+i>	odd>
+e>	odd>
+>	odd>
+w>	iodd>
+
+V;LIT;2;SG;IND;PST
+o>	aist>
+u>	aist>
+a>	aist>
+i>	aist>
+e>	aist>
+>	aist>
+w>	iaist>
+
+V;LIT;1;SG;IND;PST
+o>	ais>
+u>	ais>
+a>	ais>
+i>	ais>
+e>	ais>
+>	ais>
+w>	iais>
+
+V;COL;3;SG;IND;PST
+o>	odd o>
+u>	odd o>
+a>	odd o>
+i>	odd o>
+e>	odd o>
+>	odd o>
+w>	iodd o>
+
+V;COL;3;SG;IND;PST
+o>	odd e>
+u>	odd e>
+a>	odd e>
+i>	odd e>
+e>	odd e>
+>	odd e>
+w>	iodd e>
+
+V;COL;3;SG;IND;PST
+o>	odd hi>
+u>	odd hi>
+a>	odd hi>
+i>	odd hi>
+e>	odd hi>
+>	odd hi>
+w>	iodd hi>
+
+
+V;COL;2;SG;IND;PST
+o>	aist ti>
+u>	aist ti>
+a>	aist ti>
+i>	aist ti>
+e>	aist ti>
+>	aist ti>
+w>	iaist ti>
+
+V;COL;2;SG;IND;PST
+o>	est ti>
+u>	est ti>
+a>	est ti>
+i>	est ti>
+e>	est ti>
+>	est ti>
+w>	iest ti>
+
+V;COL;1;SG;IND;PST
+o>	es i>
+u>	es i>
+a>	es i>
+i>	es i>
+e>	es i>
+>	es i>
+w>	ies i>
+
+V;COL;3;PL;IND;PST
+o>	on nhw>
+u>	on nhw>
+a>	on nhw>
+i>	on nhw>
+e>	on nhw>
+>	on nhw>
+w>	ion nhw>
+
+V;COL;2;PL;IND;PST
+o>	och chi>
+u>	och chi>
+a>	och chi>
+i>	och chi>
+e>	och chi>
+>	och chi>
+w>	ioch chi>
+
+V;COL;1;PL;IND;PST
+o>	on ni>
+u>	on ni>
+a>	on ni>
+i>	on ni>
+e>	on ni>
+>	on ni>
+w>	ion ni>
+
+V;LIT;3;PL;IND;PST;PFV
+o>	asent>
+u>	asent>
+a>	asent>
+i>	asent>
+e>	asent>
+>	asent>
+w>	iasent>
+
+V;LIT;2;PL;IND;PST;PFV
+o>	asech>
+u>	asech>
+a>	asech>
+i>	asech>
+e>	asech>
+>	asech>
+w>	iasech>
+
+V;LIT;1;PL;IND;PST;PFV
+o>	asem>
+u>	asem>
+a>	asem>
+i>	asem>
+e>	asem>
+>	asem>
+w>	iasem>
+
+V;LIT;3;SG;IND;PST;PFV
+o>	asai>
+u>	asai>
+a>	asai>
+i>	asai>
+e>	asai>
+>	asai>
+w>	iasai>
+
+V;LIT;2;SG;IND;PST;PFV
+o>	asit>
+u>	asit>
+a>	asit>
+i>	asit>
+e>	asit>
+>	asit>
+w>	iasit>
+
+V;LIT;1;SG;IND;PST;PFV
+o>	aswn>
+u>	aswn>
+a>	aswn>
+i>	aswn>
+e>	aswn>
+>	aswn>
+w>	iaswn>
+
+V;LIT;1;SG;IND;IPFV
+o>	wn>
+u>	wn>
+a>	wn>
+i>	wn>
+e>	wn>
+>	wn>
+w>	iwn>
+
+V;LIT;2;SG;IND;IPFV
+o>	it>
+u>	it>
+a>	it>
+i>	it>
+e>	it>
+>	it>
+w>	it>
+
+V;LIT;3;SG;IND;IPFV
+o>	ai>
+u>	ai>
+a>	ai>
+i>	ai>
+e>	ai>
+>	ai>
+w>	iai>
+
+V;LIT;1;PL;IND;IPFV
+o>	em>
+u>	em>
+a>	em>
+i>	em>
+e>	em>
+>	em>
+w>	iem>
+
+V;LIT;2;PL;IND;IPFV
+o>	ech>
+u>	ech>
+a>	ech>
+i>	ech>
+e>	ech>
+>	ech>
+w>	iech>
+
+V;LIT;3;PL;IND;IPFV
+o>	ent>
+u>	ent>
+a>	ent>
+i>	ent>
+e>	ent>
+>	ent>
+w>	ient>
+
+V;COL;1;SG;IND;IPFV
+o>	wn i>
+u>	wn i>
+a>	wn i>
+i>	wn i>
+e>	wn i>
+>	wn i>
+w>	iwn i>
+
+V;COL;2;SG;IND;IPFV
+o>	et ti>
+u>	et ti>
+a>	et ti>
+i>	et ti>
+e>	et ti>
+>	et ti>
+w>	et ti>
+
+V;COL;3;SG;IND;IPFV
+o>	ai fo>
+u>	ai fo>
+a>	ai fo>
+i>	ai fo>
+e>	ai fo>
+>	ai fo>
+w>	iai fo>
+
+V;COL;1;PL;IND;IPFV
+o>	en ni>
+u>	en ni>
+a>	en ni>
+i>	en ni>
+e>	en ni>
+>	en ni>
+w>	ien ni>
+
+V;COL;2;PL;IND;IPFV
+o>	ech chi>
+u>	ech chi>
+a>	ech chi>
+i>	ech chi>
+e>	ech chi>
+>	ech chi>
+w>	iech chi>
+
+V;COL;3;PL;IND;IPFV
+o>	en nhw>
+u>	en nhw>
+a>	en nhw>
+i>	en nhw>
+e>	en nhw>
+>	en nhw>
+w>	ien nhw>
+
+V;LIT;2;SG;IMP
+o>	a>
+u>	a>
+a>	a>
+i>	a>
+e>	a>
+>	>
+w>	ia>
+
+V;LIT;3;SG;IMP
+o>	ed>
+u>	ed>
+a>	ed>
+i>	ed>
+e>	ed>
+>	ed>
+w>	ied>
+
+V;LIT;1;PL;IMP
+o>	wn>
+u>	wn>
+a>	wn>
+i>	wn>
+e>	wn>
+>	wn>
+w>	iwn>
+
+V;LIT;2;PL;IMP
+o>	wch>
+u>	wch>
+a>	wch>
+i>	wch>
+e>	wch>
+>	wch>
+w>	iwch>
+
+V;LIT;3;PL;IMP
+o>	ent>
+u>	ent>
+a>	ent>
+i>	ent>
+e>	ent>
+>	ent>
+w>	ient>
+
+V;COL;2;SG;IMP
+o>	a>
+u>	a>
+a>	a>
+i>	a>
+e>	a>
+>	a>
+w>	ia>
+
+V;COL;2;PL;IMP
+o>	wch>
+u>	wch>
+a>	wch>
+i>	wch>
+e>	wch>
+>	wch>
+w>	iwch>
+
+
